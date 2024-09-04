@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-marqsleal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marqsleal@gmail.com)](mailto:marqsleal@gmail.com)
 
 ## About me
+<img src="https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 🔬 &nbsp;Chemical Engineer <br>
 🐍 &nbsp;Data Scientist <br>
@@ -41,13 +42,12 @@
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=marqsleal&theme=radical&show_icons=true&card_width=200" />
 </div>
 
-
  &nbsp;
  &nbsp;
 
 ## My Skills
 
-<img src="https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying right now:
 
@@ -78,6 +78,7 @@
 ![JSP](https://img.shields.io/badge/JSP-007596?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 
 #### Databases:
 ![SQL](https://img.shields.io/badge/SQL-0?style=for-the-badge&logo=SQL&logoColor=white&color=greeb)&nbsp;
