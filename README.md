@@ -1,4 +1,11 @@
-### Hi everyone! 👋
+# Gabriel Leal
+
+<img align="right" src="https://komarev.com/ghpvc/?username=marqsleal" alt="GabrielLeal's Profile Views" />
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-GabrielLeal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marqsleal/)](https://www.linkedin.com/in/marqsleal/) 
+[![Gmail Badge](https://img.shields.io/badge/-marqsleal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marqsleal@gmail.com)](mailto:marqsleal@gmail.com)
+
+## About me
 
 🙋‍♂️ I'm Gabriel Marques Leal and I <br>
 🔬 am a chemical engineer who <br>
