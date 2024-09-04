@@ -7,18 +7,34 @@
 
 ## About me
 
-🙋‍♂️ I'm Gabriel Marques Leal and I <br>
-🔬 am a chemical engineer who <br>
-❤️ loves Data Science and Development <br>
-🧑‍🎓 feels very happy when learning new things <br>
-🌱 and even happier when teaching <br>
+🔬 &nbsp;Chemical Engineer <br>
+🐍 &nbsp;Data Scientist <br>
+☕ &nbsp;Backend Developer <br>
+🐧 &nbsp;DevOps Enthusiast <br>
+☁️ &nbsp;Cloud Explorer <br>
+🌱 &nbsp;Eager to Learn <br>
+🔧 &nbsp;Quality, Productivity, and optimizing processes <br>
+📚 &nbsp;Participating in tech communities and gatherings <br>
+
+### Goals
+
+- 🎯 &nbsp;Seeking opportunities in Data Science and Backend Development.
+- 🚀 &nbsp;Driven to work on innovative projects with real impact.
+- 🤝 &nbsp;Eager to collaborate and achieve shared goals.
+
+### Fun Facts
+
+- 🎸 &nbsp;Former member of a Grunge band.
+- 🎮 &nbsp;Enjoys games where customization and strategy are key elements.
+- 📚 &nbsp;Avid consumer of science fiction and medieval fantasy content.
+- 🥘 &nbsp;Always experimenting with new recipes and flavors in the kitchen.
 
 
 ## Github statistics
 
 <div align="center" style="margin-bottom:100px">
   <img height="200" width="43%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=marqsleal&theme=radical&mode=weekly" />
-  <img height="180" width="44%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=marqsleal&show_icons=true&theme=radical&layout=compact" />
+  <img height="170" width="44%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=marqsleal&show_icons=true&theme=radical&layout=compact" />
 </div> 
 
 <div align="center" style="margin-bottom:100px">
@@ -31,7 +47,7 @@
 
 ## My Skills
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying right now:
 
@@ -62,8 +78,6 @@
 ![JSP](https://img.shields.io/badge/JSP-007596?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Databases:
 ![SQL](https://img.shields.io/badge/SQL-0?style=for-the-badge&logo=SQL&logoColor=white&color=greeb)&nbsp;
