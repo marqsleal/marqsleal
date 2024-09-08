@@ -19,7 +19,7 @@
 
 ### Goals
 
-- 🎯 &nbsp;Seeking opportunities in Data Science and Backend Development.
+- 🎯 &nbsp;Seeking opportunities in Data Science and Backend Development, with a focus on integrating Chemical Engineering.
 - 🚀 &nbsp;Driven to work on innovative projects with real impact.
 - 🤝 &nbsp;Eager to collaborate and achieve shared goals.
 
