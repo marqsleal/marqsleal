@@ -5,32 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-marqsleal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marqsleal/)](https://www.linkedin.com/in/marqsleal/) 
 [![Gmail Badge](https://img.shields.io/badge/-marqsleal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marqsleal@gmail.com)](mailto:marqsleal@gmail.com)
 
-## About me
-<img src="https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-🔬 &nbsp;Chemical Engineer <br>
-🐍 &nbsp;Data Scientist <br>
-☕ &nbsp;Backend Developer <br>
-🐧 &nbsp;DevOps Enthusiast <br>
-☁️ &nbsp;Cloud Explorer <br>
-🌱 &nbsp;Eager to Learn <br>
-🔧 &nbsp;Quality, Productivity, and optimizing processes <br>
-📚 &nbsp;Participating in tech communities and gatherings <br>
-
-### Goals
-
-- 🎯 &nbsp;Seeking opportunities in Data Science and Backend Development, with a focus on integrating Chemical Engineering.
-- 🚀 &nbsp;Driven to work on innovative projects with real impact.
-- 🤝 &nbsp;Eager to collaborate and achieve shared goals.
-
-### Fun Facts
-
-- 🎸 &nbsp;Former member of a Grunge band.
-- 🎮 &nbsp;Enjoys games where customization and strategy are key elements.
-- 📚 &nbsp;Avid consumer of science fiction and medieval fantasy content.
-- 🥘 &nbsp;Always experimenting with new recipes and flavors in the kitchen.
-
-
 ## Github statistics
 
 <div align="center" style="margin-bottom:100px">
